@@ -27,11 +27,6 @@ My journey and intrest in computers has led me to develop a passion for cybersec
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ### Technologies
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
@@ -40,6 +35,7 @@ My journey and intrest in computers has led me to develop a passion for cybersec
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Scripting
