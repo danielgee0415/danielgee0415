@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hello, I'm Daniel
+<a href="https://linkedin.com/in/daniel-gurov"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**danielgee0415/danielgee0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical Engineer stepping into the world of Cyber with recent completion of a Offensive Cyber Security course under ECOM
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey and intrest in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a RED Team as a Pentester.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Technologies
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</div>
+
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-Offensive%20Security-FF0000?&style=for-the-badge&logo=Offensive%20Security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CC-563D7C?&style=for-the-badge&logoColor=white" />
+
+</div>
+
+## Projects
+- Home SIEM Lab
