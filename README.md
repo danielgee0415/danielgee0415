@@ -5,7 +5,7 @@ I am an Electrical Engineer stepping into the world of Cyber with recent complet
 
 ## Objective
 
-My journey and intrest in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a RED Team as a Pentester.
+My journey and interest in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a RED Team as a Pentester.
 
 ## Projects
 
