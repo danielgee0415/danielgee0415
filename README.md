@@ -21,6 +21,7 @@ My journey and interest in computers has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-0078D4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ### Technologies
