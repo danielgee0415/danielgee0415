@@ -9,10 +9,10 @@ My journey and interest in computers has led me to develop a passion for cyberse
 
 ## Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/danielgee0415/ElasticSIEM">Home SIEM Lab</a>|
-| Active Directory Home Lab                     | <a>In progress</a>|
+| Project                                         |
+|-----------------------------------------------|
+| <a href="https://github.com/danielgee0415/ElasticSIEM">Home SIEM Lab</a>          |
+| Active Directory Home Lab                     |
 
 ## Tools
 
