@@ -1,7 +1,7 @@
 # Hello, I'm Daniel
 <a href="https://linkedin.com/in/daniel-gurov"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an Electrical Engineer stepping into the world of Cyber with recent completion of a Offensive Cyber Security course under ECOM
+I am an ex-Electrical Engineer stepping into the world of Cyber with recent completion of a Offensive Cyber Security course under ECOM
 
 ## Objective
 
