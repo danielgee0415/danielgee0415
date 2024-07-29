@@ -5,13 +5,13 @@ I am an ex-Electrical Engineer stepping into the world of Cyber with recent comp
 
 ## Objective
 
-My journey and interest in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a RED Team as a Pentester.
+My journey and interest in computers has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a RED Team as a Pentester.
 
 ## Projects
 
 | Project                                         |
 |-----------------------------------------------|
-| <a href="https://github.com/danielgee0415/ElasticSIEM">Home SIEM Lab</a>          |
+| <a href="https://github.com/danielgee0415/ElasticSIEM">ELASTIC SIEM Lab</a>          |
 | Active Directory Home Lab                     |
 
 ## Tools
@@ -41,5 +41,4 @@ My journey and interest in computers has led me to develop a passion for cyberse
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Offensive%20Security-FF0000?&style=for-the-badge&logo=Offensive%20Security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CC-563D7C?&style=for-the-badge&logoColor=white" />
 </div>
