@@ -13,6 +13,7 @@ My journey and interest in computers has led me to develop a passion for cyberse
 |-----------------------------------------------|
 | <a href="https://github.com/danielgee0415/ElasticSIEM">ELASTIC SIEM Lab</a>          |
 | Active Directory Lab                     |
+| <a href="https://github.com/danielgee0415/THMCTFNotes">THM CTF self-notes</a>          |
 
 ## Tools
 
