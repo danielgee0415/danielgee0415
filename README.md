@@ -9,7 +9,7 @@ My journey and interest in computers has led me to develop a passion for cyberse
 
 ## Projects
 
-| Project                                         |
+| Projects                                         |
 |-----------------------------------------------|
 | <a href="https://github.com/danielgee0415/ElasticSIEM">ELASTIC SIEM Lab</a>          |
 | Active Directory Lab                     |
