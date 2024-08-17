@@ -22,7 +22,6 @@ My journey and interest in computers has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-0078D4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
@@ -30,6 +29,7 @@ My journey and interest in computers has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
 ### Scripting
